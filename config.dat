@@ -1,0 +1,24 @@
+{
+    "recon/profiles-profiles/profiler": {
+        "SOURCE": "grey_rabbit"
+    },
+    "recon/domains-hosts/brute_hosts": {
+        "SOURCE": "netflix.com"
+    },
+    "recon/domains-domains/brute_suffix": {
+        "SOURCE": "netflix.com"
+    },
+    "recon/companies-multi/whois_miner": {
+        "SOURCE": "netflix.com"
+    },
+    "recon/domains-contacts/whois_pocs": {
+        "SOURCE": "netflix.com"
+    },
+    "discovery/info_disclosure/interesting_files": {
+        "SOURCE": "netflix.com"
+    },
+    "reporting/html": {
+        "CREATOR": "zakaria thami",
+        "CUSTOMER": "OSINT_Lab"
+    }
+}
